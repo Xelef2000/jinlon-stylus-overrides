@@ -1,0 +1,14 @@
+[Device]
+Name=GDIX0000:00 27C6:0E0C Stylus
+ModelName=
+DeviceMatch=i2c:27c6:0e0c
+Class=ISDV4
+Width=9
+Height=5
+IntegratedIn=Display;System
+#Styli=isdv4-aes
+Styli=@generic-no-eraser
+
+[Features]
+Stylus=true
+Touch=false

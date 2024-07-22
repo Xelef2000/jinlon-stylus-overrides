@@ -1,0 +1,6 @@
+[Google Chromebook Jinlon Stylus Digitizer]
+MatchUdevType=tablet
+MatchDeviceTree=*jinlon*
+MatchBus=i2c
+ModelChromebook=1
+AttrPressureRange=1100:1000
